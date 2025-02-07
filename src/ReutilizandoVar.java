@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-public class PorcentagemDois {
-    public static void main (String args[]){
+public class ReutilizandoVar {
+    public static void main (String[] args){
 
         System.out.println("Digite seu salário");
         Scanner s = new Scanner(System.in);
@@ -12,7 +12,13 @@ public class PorcentagemDois {
         double cinco = 5;
 
         double resultado = salario * (trinta / 100);
-        
+
+        System.out.println(resultado);
+
+        resultado = salario * (quinze / 100);
+        System.out.println(resultado);
+
+        resultado = salario * (cinco/100);
         System.out.println(resultado);
 
 
