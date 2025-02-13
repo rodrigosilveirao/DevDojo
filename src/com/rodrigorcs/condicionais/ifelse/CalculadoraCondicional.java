@@ -1,3 +1,5 @@
+package com.rodrigorcs.condicionais;
+
 import java.util.Scanner;
 
 public class CalculadoraCondicional {
