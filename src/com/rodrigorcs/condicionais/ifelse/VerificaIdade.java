@@ -1,4 +1,4 @@
-package com.rodrigorcs.condicionais;
+package com.rodrigorcs.condicionais.ifelse;
 
 import java.util.Scanner;
 

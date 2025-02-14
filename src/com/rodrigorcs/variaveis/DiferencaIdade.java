@@ -1,3 +1,5 @@
+package com.rodrigorcs.variaveis;
+
 public class DiferencaIdade {
     public static void main(String[] args) {
         int idade1 = 100;

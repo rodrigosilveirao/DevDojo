@@ -1,3 +1,5 @@
+package com.rodrigorcs.variaveis;
+
 public class TestandoVariaveis {
     public static void main(String[] args) {
         char letra = 'a';  //1 caractere

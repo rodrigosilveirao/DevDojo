@@ -1,3 +1,5 @@
+package com.rodrigorcs.variaveis;
+
 import java.util.Scanner;
 
 public class ReutilizandoVar {
